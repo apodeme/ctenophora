@@ -1,8 +1,5 @@
 #!/bin/bash
 #convert to one line fasta
-#requires all files to be converted to be listed in a .txt file taxafilenames.txt (do ls *.fa > taxafilenames.txt)
-#requires folders oneline/wolineone
-
 #convert all files in txt from multiline fasta to single line
 mkdir ./oneline
 
